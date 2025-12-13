@@ -59,4 +59,4 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 5. Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
 
 ## Feedback
-If you have any feedback, please reach me at omprakashtiwari1515@gmail.com
+If you have any feedback, please reach me at sainiswayam9@gmail.com
