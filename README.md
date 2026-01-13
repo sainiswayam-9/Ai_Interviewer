@@ -21,7 +21,7 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 2. Navigate to the project directory:
 
-    cd ai-mock-interview
+    cd Ai_interviewer
 
 3. Install dependencies by running: npm install or yarn install
 
