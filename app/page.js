@@ -135,7 +135,7 @@ const page = () => {
       </main>
 
       <footer className="py-8 bg-black text-white text-center">
-        <p>© 2024 AI Mock Interview. All rights reserved.</p>
+        <p>© 2025 AI Mock Interview. All rights reserved.</p>
       </footer>
     </div>
   )
