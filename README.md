@@ -17,11 +17,11 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
 
-    git clone https://github.com/omprakash-tiwari/automated_ai_interviewer.git
+    git clone https://github.com/sainiswayam-9/Ai_Interviewer
 
 2. Navigate to the project directory:
 
-    cd ai-mock-interview
+    cd Ai_interviewer
 
 3. Install dependencies by running: npm install or yarn install
 
@@ -59,4 +59,4 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 5. Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
 
 ## Feedback
-If you have any feedback, please reach me at omprakashtiwari1515@gmail.com
+If you have any feedback, please reach me at sainiswayam9@gmail.com
