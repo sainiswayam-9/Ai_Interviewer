@@ -92,7 +92,7 @@ const AddNewInterview = () => {
         <DialogContent className="max-w-2xl">
           <DialogHeader>
             <DialogTitle className="text-2xl">
-              Tell us more about your job interviwing
+              Tell us more about your job intervewing
             </DialogTitle>
             <DialogDescription>
               <form onSubmit={onSubmit}>
@@ -103,7 +103,7 @@ const AddNewInterview = () => {
                   </h2>
 
                   <div className="mt-7 my-3">
-                    <label className="text-black">Job Role/job Position</label>
+                    <label className="text-black">Job Role/Job Position</label>
                     <Input
                       className="mt-1"
                       placeholder="Ex. Full stack Developer"
